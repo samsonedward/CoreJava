@@ -19,7 +19,6 @@ public class smallestnumberArray {
 			if (givenArray[i] < smallest)
 				smallest = givenArray[i];
 		}
-
 		System.out.println("The Smallest number in the Array is " + smallest);
 
 	}
